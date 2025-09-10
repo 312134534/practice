@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "utility": "cpp",
+        "pe,cpp": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp"
+    },
+    "editor.inlineSuggest.enabled": false, 
+    "editor.suggestOnTriggerCharacters": true 
+}
